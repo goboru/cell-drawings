@@ -22,6 +22,8 @@ Up to July 28th 2025, the repository includes:
 - Dammaged blood vessel
 - Neutrophils
 - Plasma cells
+- Epithelial cells
+- Myofibroblast
 
 Most images include **multiple versions of the same cell type**—with slight variations in shape, style, or detail. You are encouraged to crop or separate them as needed to fit your specific use case.
 

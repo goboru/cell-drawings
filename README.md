@@ -4,7 +4,7 @@ Welcome to my little gallery of immune cell illustrations — hand-drawn and sha
 
 I'm Gonzalo Borrego-Yaniz, and I created these drawings to make my presentations a bit more visual and fun. I decided to share these cell illustrations I use in case others find them helpful — especially if you enjoy a friendly style or don’t have access to paid illustration software.
 
-Feel free to use them in your presentations, papers, posters, lectures... wherever a cheerful immune cell might come in handy! No citation needed.
+Feel free to use them in your presentations, papers, posters, lectures... wherever a cheerful immune cell might come in handy! No need to give credits to me, just don't use them for commercial purposes.
 
 I’ll keep adding more as I go, I usually draw them when I need them myself 🧪✨
 

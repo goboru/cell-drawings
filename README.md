@@ -24,6 +24,7 @@ Up to July 28th 2025, the repository includes:
 - Plasma cells
 - Epithelial cells
 - Myofibroblast
+- Lymphocytes
 
 Most images include **multiple versions of the same cell type**—with slight variations in shape. You are encouraged to crop or separate them as needed to fit your specific use case.
 

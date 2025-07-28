@@ -1,6 +1,14 @@
 # cell-drawings
-Immune cell illustrations for the scientific community to use by Gonzalo Borrego-Yaniz. When I make more of them, I will add them here. 
+Hi there! 👋  
+Welcome to my little gallery of immune cell illustrations — hand-drawn and shared with the scientific community.
 
+I'm Gonzalo Borrego-Yaniz, and I created these drawings to make science a bit more visual and fun. I decided to share these cell illustrations I use in case others find them helpful — especially if you enjoy a friendly style or don’t have access to paid illustration software.
+
+Feel free to use them in your presentations, papers, posters, lectures... wherever a cheerful immune cell might come in handy!
+
+I’ll keep adding more as I go, I usually draw them when I need them myself 🧪✨
+
+Thanks for visiting! 🔬
 
 ## Content
 Up to July 28th 2025, the repository includes:
@@ -15,7 +23,7 @@ Up to July 28th 2025, the repository includes:
 - Neutrophils
 - Plasma cells
 
-Most of the illustrations show different versions of the same cell type, you can crop the image to use the one you like or separate the image and use the versions in different contexts. 
+Most images include **multiple versions of the same cell type**—with slight variations in shape, style, or detail. You are encouraged to crop or separate them as needed to fit your specific use case.
 
 ## 🔖 License
 
